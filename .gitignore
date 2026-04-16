@@ -1,0 +1,7 @@
+.env
+
+# generated secrets and crypto artifacts
+*.pem
+*.cer
+*.pfx
+*.base64
